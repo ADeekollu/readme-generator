@@ -32,3 +32,6 @@ Licensed with the [MIT] license
 If you have questions contact me here: 
 ankithdeekollu@gmail.com
 github.com/ADeekollu
+
+## Walkthrough Demo
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/d509d298-cbeb-4c15-y769-88df604c150a
