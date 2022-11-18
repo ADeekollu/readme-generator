@@ -35,7 +35,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'tests',
+        name: 'test',
         message: 'How to run a test for your application?',
     },
     {
@@ -71,8 +71,7 @@ function writeToFile(fileName, data) {
                 }
             })
         })
-      
-}
+ }
 
 
 writeToFile();
